@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Alex...
-- 👀 I’m interested in ... 
-     Code and information security 
-- 🌱 I’m currently learning ...
-     Python and the essentials of hacking
-- 💞️ I’m looking to collaborate on ...
-      Anything as long as one foot goes infront of the other. 
-- 📫 How to reach me ...
-      Twitter: @CythesOut  
+### Hi, I’m Alex...👋
+<hr/>   
+Languages and Topics I Study:  
+
+![python](https://img.shields.io/pypi/pyversions/3?color=red&logo=python&logoColor=red&style=plastic)  
 
 ![Cythes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CythesOut&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CythesOut&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)    
         
