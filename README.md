@@ -7,11 +7,7 @@
  [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)  [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  ![python](https://img.shields.io/pypi/pyversions/3?color=red&logo=python&logoColor=red&style=plastic)  [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)  
  
 ![Cythes's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKollar&show_icons=true&theme=dracula) 
-
-## Broken Saints
-
-![](https://pbs.twimg.com/profile_banners/1366769770117406729/1633889532/1500x500)         
-
+         
 #### [Take a look at my buddy Shepherd!](https://github.com/LostShepherdUK)
 <!---
 CythesOut/CythesOut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
