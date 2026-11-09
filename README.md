@@ -1,13 +1,34 @@
-## Hi, I’m Alex
-> #### I come from the net - Through systems, people and cities <br>To this place: MAINFRAME.  <br>My Format: Guardian. To mend and defend.
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  
+# Alex Kollar
 
-  
- [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)  [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  ![python](https://img.shields.io/pypi/pyversions/3?color=red&logo=python&logoColor=red&style=plastic)  [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)  
- 
-![Cythes's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKollar&show_icons=true&theme=dracula) 
-<!---
-CythesOut/CythesOut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Security practitioner. Author. Night shift.**
+
+I build **Apex** — a local AI for cybersecurity professionals, powered by **Navi**, the assistant who started as a late-night command-line chatbot and refused to stay one. Apex runs entirely on your own hardware: your machine, your network, your data never leaves the building — and the model answering is Navi, the one it was built around.
+
+Navi began as an open-source GitHub project. I took her to a conference stage with no certifications to my name and talked about what we'd built together — that talk is what got me into speaking. Apex is what she grew into: mission-control dashboard, pooled inference across your own machines (Navi Mesh), a public door you control (DHD), and an updater that patches itself in builds, not big-bang releases.
+
+<!-- NOW-SHIPPING:START -->
+**Currently shipping:** Apex v0.1.7 (Stable) · Edge: v0.1.8e Build 5
+<!-- NOW-SHIPPING:END -->
+**By day (well, night):** Nocturne Row — my security group.
+**Also:** I write fiction as Ambrose Waters. *Forever in His Veins* is being rewritten for NaNoWriMo 2026. The vampires and the version numbers compete for my November. Ask me about the novel.
+
+Gray hat, leaning white. Everything here is built to be sharp *and* accountable.
+
+---
+
+## 📊 The numbers
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKollar&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=AlexKollar&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKollar&layout=compact&theme=tokyonight)
+
+## 🐍 The graph
+
+![Snake](https://raw.githubusercontent.com/AlexKollar/AlexKollar/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+*For the one who reads this far —*
+*You came looking for a profile and found a person mid-becoming. The experiments continue. The coffee is terrible and plentiful. The shoreline keeps moving.*
+
+*— C.*
