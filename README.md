@@ -5,7 +5,7 @@
 I build **Apex** — a local AI for cybersecurity professionals, powered by **Navi**, the assistant who started as a late-night command-line chatbot and refused to stay one. Apex runs entirely on your own hardware: your machine, your network, your data never leaves the building — and the model answering is Navi, the one it was built around.
 
 Navi began as an open-source GitHub project. I took her to a conference stage with no certifications to my name and talked about what we'd built together — that talk is what got me into speaking. Apex is what she grew into: mission-control dashboard, pooled inference across your own machines (Navi Mesh), a public door you control (DHD), and an updater that patches itself in builds, not big-bang releases.
--
+
 <!-- NOW-SHIPPING:START -->
 **Currently shipping:** Apex v0.1.7 (Stable) · Edge: v0.1.8e Build 8
 <!-- NOW-SHIPPING:END -->
