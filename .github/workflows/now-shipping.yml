@@ -1,0 +1,32 @@
+name: Now Shipping
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh the now-shipping line from Apex releases
+        shell: bash
+        run: |
+          STABLE=$(curl -s https://api.github.com/repos/AlexKollar/Apex/releases | python3 -c "import json,sys; rs=json.load(sys.stdin); print(next((r['name'] for r in rs if not r['prerelease']), 'Apex v0.1.7 (Stable)'))")
+          EDGE=$(curl -s https://api.github.com/repos/AlexKollar/Apex/releases | python3 -c "import json,sys; rs=json.load(sys.stdin); print(next((r['name'] for r in rs if r['prerelease']), 'Edge: none'))")
+          LINE="**Currently shipping:** ${STABLE} · Edge: ${EDGE}"
+          python3 - "$LINE" <<'PY'
+          import re, sys
+          line = sys.argv[1]
+          text = open('README.md').read()
+          new = re.sub(r'(<!-- NOW-SHIPPING:START -->).*?(<!-- NOW-SHIPPING:END -->)', r'\1\n' + line + r'\n\2', text, flags=re.S)
+          open('README.md','w').write(new)
+          PY
+      - name: Commit if changed
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Refresh now-shipping line" && git push
